@@ -1,0 +1,80 @@
+{
+    "trade_risk": 5,
+    "granularity": "M1",
+    "trading_pairs": {
+        
+        "AUDCAD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        }, "XAUUSD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "CHFJPY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "USDJPY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "EURCHF": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "EURUSD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "GBPUSD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        }
+        
+       
+    }
+}
+
+

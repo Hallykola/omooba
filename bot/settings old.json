@@ -1,0 +1,37 @@
+{
+    "trade_risk": 5,
+    "granularity": "M1",
+    "trading_pairs": {
+        "EURUSD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "USDJPY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.04,
+            "mingain": 0.06,
+            "riskreward": 1.5
+        },
+        "GBPUSD": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0004,
+            "mingain": 0.0006,
+            "riskreward": 1.5
+        },
+        "GBPJPY": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.04,
+            "mingain": 0.06,
+            "riskreward": 1.5
+        }
+       
+        
+    }
+}
+

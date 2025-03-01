@@ -1,0 +1,489 @@
+2024-10-08 *** 16:40:14 LogWrapper init() ./logs/main.log
+2024-10-08 *** 16:40:14 Done setting up logs
+2024-10-08 *** 16:40:27 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00025000000000030553 with settings mingain as: 0.0006
+2024-10-08 *** 16:40:34 GBPJPY --> Current spread: 0.2 with settings spread: 0.14 and current est. gain is: 0.0032666666667182653 with settings mingain as: 0.06
+2024-10-08 *** 16:40:41 EURJPY --> Current spread: 0.14 with settings spread: 0.14 and current est. gain is: 0.022600000000011278 with settings mingain as: 0.06
+2024-10-08 *** 16:40:51 USDJPY --> Current spread: 0.18 with settings spread: 0.14 and current est. gain is: 0.06213333333329274 with settings mingain as: 0.06
+2024-10-08 *** 16:40:58 GBPUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0005066666666668773 with settings mingain as: 0.0006
+2024-10-08 *** 16:41:16 EURCHF --> Current spread: 0.0013000000000000002 with settings spread: 0.0015 and current est. gain is: 0.0002353333333331431 with settings mingain as: 0.0006
+2024-10-08 *** 16:41:27 GBPCHF --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0005500000000000504 with settings mingain as: 0.0006
+2024-10-08 *** 16:41:31 USDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 9.133333333322113e-05 with settings mingain as: 0.0006
+2024-10-08 *** 16:41:40 AUDUSD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0005439999999998779 with settings mingain as: 0.0006
+2024-10-08 *** 16:41:45 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:40:19.266    1.09659    1.09646
+1      GBPJPY 2024-10-08 18:40:27.553  194.09100  194.06900
+2      EURJPY 2024-10-08 18:40:32.064  162.61400  162.59500
+3      USDJPY 2024-10-08 18:40:41.089  148.29500  148.27700
+4      GBPUSD 2024-10-08 18:40:44.928    1.30897    1.30884
+5      EURGBP 2024-10-08 18:40:55.680    0.83784    0.83773
+6      EURCHF 2024-10-08 18:41:06.177    0.94102    0.94088
+7      GBPCHF 2024-10-08 18:41:09.889    1.12325    1.12310
+8      USDCAD 2024-10-08 18:41:20.704    1.36741    1.36725
+9      AUDUSD 2024-10-08 18:41:30.240    0.67280    0.67263
+10     AUDCAD 2024-10-08 18:41:38.754    0.91986    0.91971
+2024-10-08 *** 16:41:48 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.0006666666666665932 with settings mingain as: 0.0006
+2024-10-08 *** 16:42:11 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00036333333333349316 with settings mingain as: 0.0006
+2024-10-08 *** 16:42:17 GBPJPY --> Current spread: 0.2 with settings spread: 0.14 and current est. gain is: 0.007133333333285918 with settings mingain as: 0.06
+2024-10-08 *** 16:42:24 EURJPY --> Current spread: 0.14 with settings spread: 0.14 and current est. gain is: 0.030733333333330393 with settings mingain as: 0.06
+2024-10-08 *** 16:42:33 USDJPY --> Current spread: 0.18 with settings spread: 0.14 and current est. gain is: 0.0762666666666405 with settings mingain as: 0.06
+2024-10-08 *** 16:42:38 GBPUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0006366666666663967 with settings mingain as: 0.0006
+2024-10-08 *** 16:42:38 TradeWorker : TradeDecision():0 GBPUSD dir:-1 gain:0.0006 loss:0.0001 sl:1.3089  tp:1.3082
+2024-10-08 *** 16:42:45 EURCHF --> Current spread: 0.0013000000000000002 with settings spread: 0.0015 and current est. gain is: 0.00014399999999992197 with settings mingain as: 0.0006
+2024-10-08 *** 16:42:53 GBPCHF --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 0.0003379999999997274 with settings mingain as: 0.0006
+2024-10-08 *** 16:43:00 USDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 6.0666666666708835e-05 with settings mingain as: 0.0006
+2024-10-08 *** 16:43:08 AUDUSD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.00025933333333338915 with settings mingain as: 0.0006
+2024-10-08 *** 16:43:17 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.00034000000000000696 with settings mingain as: 0.0006
+2024-10-08 *** 16:43:21 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:42:03.169    1.09666    1.09653
+1      GBPJPY 2024-10-08 18:42:09.473  194.08200  194.05500
+2      EURJPY 2024-10-08 18:42:18.402  162.59200  162.57600
+3      USDJPY 2024-10-08 18:42:23.969  148.27000  148.25100
+4      GBPUSD 2024-10-08 18:42:30.560    1.30902    1.30890
+5      EURGBP 2024-10-08 18:42:38.272    0.83782    0.83770
+6      EURCHF 2024-10-08 18:42:44.032    0.94113    0.94099
+7      GBPCHF 2024-10-08 18:42:53.057    1.12336    1.12320
+8      USDCAD 2024-10-08 18:43:01.247    1.36749    1.36731
+9      AUDUSD 2024-10-08 18:43:08.223    0.67274    0.67257
+10     AUDCAD 2024-10-08 18:43:16.929    0.91987    0.91969
+2024-10-08 *** 16:43:23 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00025466666666629223 with settings mingain as: 0.0006
+2024-10-08 *** 16:43:50 GBPJPY --> Current spread: 0.24 with settings spread: 0.14 and current est. gain is: 0.0036000000000058208 with settings mingain as: 0.06
+2024-10-08 *** 16:44:01 EURJPY --> Current spread: 0.16 with settings spread: 0.14 and current est. gain is: 0.02926666666667188 with settings mingain as: 0.06
+2024-10-08 *** 16:44:13 GBPUSD --> Current spread: 0.001 with settings spread: 0.0015 and current est. gain is: 0.0005646666666665467 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:23 EURCHF --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 6.13333333330246e-05 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:32 GBPCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.00027333333333334764 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:38 USDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.00035333333333342765 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:48 AUDUSD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.00029133333333342115 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:52 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.0001973333333331606 with settings mingain as: 0.0006
+2024-10-08 *** 16:44:58 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.000236000000000125 with settings mingain as: 0.0006
+2024-10-08 *** 16:45:04 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:43:38.848    1.09662    1.09650
+1      GBPJPY 2024-10-08 18:43:49.824  194.08200  194.05800
+2      EURJPY 2024-10-08 18:43:59.009  162.58900  162.57200
+3      USDJPY 2024-10-08 18:44:06.464  148.27500  148.25700
+4      GBPUSD 2024-10-08 18:44:13.280    1.30898    1.30886
+5      EURGBP 2024-10-08 18:44:16.927    0.83781    0.83771
+6      EURCHF 2024-10-08 18:44:31.200    0.94098    0.94083
+7      GBPCHF 2024-10-08 18:44:38.113    1.12328    1.12309
+8      USDCAD 2024-10-08 18:44:44.832    1.36728    1.36712
+9      AUDUSD 2024-10-08 18:44:47.552    0.67274    0.67257
+10     AUDCAD 2024-10-08 18:44:58.015    0.91974    0.91957
+2024-10-08 *** 16:45:28 EURJPY --> Current spread: 0.13 with settings spread: 0.14 and current est. gain is: 0.027266666666605488 with settings mingain as: 0.06
+2024-10-08 *** 16:45:35 GBPUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00030066666666650477 with settings mingain as: 0.0006
+2024-10-08 *** 16:45:43 EURCHF --> Current spread: 0.0013000000000000002 with settings spread: 0.0015 and current est. gain is: 0.00037066666666696335 with settings mingain as: 0.0006
+2024-10-08 *** 16:45:50 GBPCHF --> Current spread: 0.0017000000000000001 with settings spread: 0.0015 and current est. gain is: 0.00019466666666634325 with settings mingain as: 0.0006
+2024-10-08 *** 16:46:02 USDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0003133333333336097 with settings mingain as: 0.0006
+2024-10-08 *** 16:46:18 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 5.333333333190637e-06 with settings mingain as: 0.0006
+2024-10-08 *** 16:46:26 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003453333333331976 with settings mingain as: 0.0006
+2024-10-08 *** 16:46:33 EURJPY --> Current spread: 0.13 with settings spread: 0.14 and current est. gain is: 0.01573333333328719 with settings mingain as: 0.06
+2024-10-08 *** 16:46:43 GBPUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0004573333333333096 with settings mingain as: 0.0006
+2024-10-08 *** 16:46:49 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:45:21.600    1.09667    1.09654
+1      GBPJPY 2024-10-08 18:45:27.936  194.08000  194.05800
+2      EURJPY 2024-10-08 18:45:35.039  162.57800  162.56100
+3      USDJPY 2024-10-08 18:45:42.688  148.25300  148.23300
+4      GBPUSD 2024-10-08 18:45:49.151    1.30916    1.30901
+5      EURGBP 2024-10-08 18:45:55.360    0.83781    0.83770
+6      EURCHF 2024-10-08 18:46:06.463    0.94093    0.94077
+7      GBPCHF 2024-10-08 18:46:17.248    1.12328    1.12309
+8      USDCAD 2024-10-08 18:46:27.072    1.36704    1.36688
+9      AUDUSD 2024-10-08 18:46:27.615    0.67296    0.67279
+10     AUDCAD 2024-10-08 18:46:43.839    0.91983    0.91967
+2024-10-08 *** 16:46:54 EURCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0003966666666666008 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:12 GBPCHF --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0001706666666665413 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:18 USDCAD --> Current spread: 0.0013000000000000002 with settings spread: 0.0015 and current est. gain is: 0.0005420000000002645 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:25 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.00010266666666680635 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:34 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.000376000000000154 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:40 EURJPY --> Current spread: 0.14 with settings spread: 0.14 and current est. gain is: 0.0076666666666369565 with settings mingain as: 0.06
+2024-10-08 *** 16:47:47 GBPUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 0.0005973333333333386 with settings mingain as: 0.0006
+2024-10-08 *** 16:47:58 EURCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0002453333333332086 with settings mingain as: 0.0006
+2024-10-08 *** 16:48:10 USDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0006693333333331886 with settings mingain as: 0.0006
+2024-10-08 *** 16:48:10 TradeWorker : TradeDecision():0 USDCAD dir:1 gain:0.0007 loss:0.0001 sl:1.3668  tp:1.3675
+2024-10-08 *** 16:48:19 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.00017999999999984695 with settings mingain as: 0.0006
+2024-10-08 *** 16:48:22 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:47:06.048    1.09683    1.09671
+1      GBPJPY 2024-10-08 18:47:10.943  194.11500  194.08900
+2      EURJPY 2024-10-08 18:47:18.048  162.60800  162.59000
+3      USDJPY 2024-10-08 18:47:24.256  148.26100  148.24200
+4      GBPUSD 2024-10-08 18:47:34.816    1.30934    1.30921
+5      EURGBP 2024-10-08 18:47:40.353    0.83781    0.83770
+6      EURCHF 2024-10-08 18:47:46.656    0.94093    0.94079
+7      GBPCHF 2024-10-08 18:47:58.367    1.12316    1.12298
+8      USDCAD 2024-10-08 18:48:02.847    1.36702    1.36687
+9      AUDUSD 2024-10-08 18:48:08.447    0.67291    0.67274
+10     AUDCAD 2024-10-08 18:48:18.335    0.91979    0.91962
+2024-10-08 *** 16:48:23 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003306666666667013 with settings mingain as: 0.0006
+2024-10-08 *** 16:48:46 EURJPY --> Current spread: 0.16 with settings spread: 0.14 and current est. gain is: 0.014066666666735728 with settings mingain as: 0.06
+2024-10-08 *** 16:48:53 GBPUSD --> Current spread: 0.001 with settings spread: 0.0015 and current est. gain is: 0.0004473333333332441 with settings mingain as: 0.0006
+2024-10-08 *** 16:48:59 EURCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.00017733333333347367 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:10 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0001486666666665748 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:16 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 4.8666666666807856e-05 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:23 EURJPY --> Current spread: 0.15 with settings spread: 0.14 and current est. gain is: 0.005133333333333212 with settings mingain as: 0.06
+2024-10-08 *** 16:49:31 GBPUSD --> Current spread: 0.001 with settings spread: 0.0015 and current est. gain is: 0.00030799999999997496 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:35 EURCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0001653333333335727 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:44 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0001486666666665748 with settings mingain as: 0.0006
+2024-10-08 *** 16:49:47 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:48:38.879    1.09677    1.09659
+1      GBPJPY 2024-10-08 18:48:46.238  194.08600  194.06200
+2      EURJPY 2024-10-08 18:48:52.607  162.58800  162.57200
+3      USDJPY 2024-10-08 18:48:59.871  148.26900  148.25000
+4      GBPUSD 2024-10-08 18:49:04.224    1.30919    1.30907
+5      EURGBP 2024-10-08 18:49:10.815    0.83776    0.83765
+6      EURCHF 2024-10-08 18:49:14.719    0.94105    0.94087
+7      GBPCHF 2024-10-08 18:49:21.375    1.12334    1.12318
+8      USDCAD 2024-10-08 18:49:28.447    1.36714    1.36698
+9      AUDUSD 2024-10-08 18:49:35.647    0.67284    0.67268
+10     AUDCAD 2024-10-08 18:49:43.903    0.91973    0.91955
+2024-10-08 *** 16:49:50 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 4.8666666666807856e-05 with settings mingain as: 0.0006
+2024-10-08 *** 16:50:11 EURJPY --> Current spread: 0.15 with settings spread: 0.14 and current est. gain is: 0.025200000000040745 with settings mingain as: 0.06
+2024-10-08 *** 16:50:17 GBPUSD --> Current spread: 0.001 with settings spread: 0.0015 and current est. gain is: 0.00045399999999995444 with settings mingain as: 0.0006
+2024-10-08 *** 16:50:27 EURCHF --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0001006666666665268 with settings mingain as: 0.0006
+2024-10-08 *** 16:50:42 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0006186666666667673 with settings mingain as: 0.0006
+2024-10-08 *** 16:50:42 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0006 loss:0.0001 sl:0.9199  tp:0.9206
+2024-10-08 *** 16:50:49 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 0.0001513333333336142 with settings mingain as: 0.0006
+2024-10-08 *** 16:51:00 EURJPY --> Current spread: 0.15 with settings spread: 0.14 and current est. gain is: 0.025200000000040745 with settings mingain as: 0.06
+2024-10-08 *** 16:51:13 EURCHF --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.00019066666666645027 with settings mingain as: 0.0006
+2024-10-08 *** 16:51:23 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0010866666666669023 with settings mingain as: 0.0006
+2024-10-08 *** 16:51:23 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9202  tp:0.9214
+2024-10-08 *** 16:51:29 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00047733333333344063 with settings mingain as: 0.0006
+2024-10-08 *** 16:51:37 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:50:04.926    1.09676    1.09664
+1      GBPJPY 2024-10-08 18:50:10.399  194.09000  194.06600
+2      EURJPY 2024-10-08 18:50:15.678  162.59400  162.57800
+3      USDJPY 2024-10-08 18:50:25.407  148.24500  148.22600
+4      GBPUSD 2024-10-08 18:50:40.287    1.30957    1.30944
+5      EURGBP 2024-10-08 18:50:47.071    0.83772    0.83762
+6      EURCHF 2024-10-08 18:50:59.391    0.94113    0.94097
+7      GBPCHF 2024-10-08 18:51:05.534    1.12354    1.12335
+8      USDCAD 2024-10-08 18:51:12.606    1.36686    1.36660
+9      AUDUSD 2024-10-08 18:51:23.263    0.67357    0.67341
+10     AUDCAD 2024-10-08 18:51:29.823    0.92050    0.92034
+2024-10-08 *** 16:51:39 EURJPY --> Current spread: 0.14 with settings spread: 0.14 and current est. gain is: 0.009999999999990905 with settings mingain as: 0.06
+2024-10-08 *** 16:52:15 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0014373333333332905 with settings mingain as: 0.0006
+2024-10-08 *** 16:52:15 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0014 loss:0.0001 sl:0.9204  tp:0.9220
+2024-10-08 *** 16:52:30 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0007573333333334986 with settings mingain as: 0.0006
+2024-10-08 *** 16:52:30 TradeWorker : TradeDecision():0 EURUSD dir:-1 gain:0.0008 loss:0.0001 sl:1.0971  tp:1.0963
+2024-10-08 *** 16:52:35 EURJPY --> Current spread: 0.13 with settings spread: 0.14 and current est. gain is: 0.01619999999996935 with settings mingain as: 0.06
+2024-10-08 *** 16:52:45 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.0014373333333332905 with settings mingain as: 0.0006
+2024-10-08 *** 16:52:45 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0014 loss:0.0001 sl:0.9204  tp:0.9220
+2024-10-08 *** 16:52:54 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0007573333333334986 with settings mingain as: 0.0006
+2024-10-08 *** 16:52:54 TradeWorker : TradeDecision():0 EURUSD dir:-1 gain:0.0008 loss:0.0001 sl:1.0971  tp:1.0963
+2024-10-08 *** 16:53:11 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0011066666666670333 with settings mingain as: 0.0006
+2024-10-08 *** 16:53:11 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9203  tp:0.9215
+2024-10-08 *** 16:53:18 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00029799999999946536 with settings mingain as: 0.0006
+2024-10-08 *** 16:53:25 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0011066666666670333 with settings mingain as: 0.0006
+2024-10-08 *** 16:53:25 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9203  tp:0.9215
+2024-10-08 *** 16:53:30 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:51:52.222    1.09715    1.09703
+1      GBPJPY 2024-10-08 18:52:04.894  194.11000  194.08800
+2      EURJPY 2024-10-08 18:52:15.519  162.60800  162.58800
+3      USDJPY 2024-10-08 18:52:28.894  148.20000  148.17700
+4      GBPUSD 2024-10-08 18:52:35.742    1.30974    1.30961
+5      EURGBP 2024-10-08 18:52:45.087    0.83767    0.83757
+6      EURCHF 2024-10-08 18:52:54.205    0.94103    0.94085
+7      GBPCHF 2024-10-08 18:53:02.174    1.12343    1.12324
+8      USDCAD 2024-10-08 18:53:10.367    1.36662    1.36646
+9      AUDUSD 2024-10-08 18:53:16.990    0.67376    0.67359
+10     AUDCAD 2024-10-08 18:53:25.310    0.92070    0.92052
+2024-10-08 *** 16:53:32 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00029799999999946536 with settings mingain as: 0.0006
+2024-10-08 *** 16:53:54 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0011066666666670333 with settings mingain as: 0.0006
+2024-10-08 *** 16:53:54 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9203  tp:0.9215
+2024-10-08 *** 16:54:01 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00029799999999946536 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:08 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.001139333333333381 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:08 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9204  tp:0.9217
+2024-10-08 *** 16:54:15 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00045400000000039853 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:22 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.001139333333333381 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:22 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9204  tp:0.9217
+2024-10-08 *** 16:54:28 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00045400000000039853 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:37 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.001139333333333381 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:37 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9204  tp:0.9217
+2024-10-08 *** 16:54:43 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00045400000000039853 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:53 AUDCAD --> Current spread: 0.0014 with settings spread: 0.0015 and current est. gain is: 0.001139333333333381 with settings mingain as: 0.0006
+2024-10-08 *** 16:54:53 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0011 loss:0.0001 sl:0.9204  tp:0.9217
+2024-10-08 *** 16:55:04 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00045400000000039853 with settings mingain as: 0.0006
+2024-10-08 *** 16:55:10 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:53:46.206    1.09706    1.09694
+1      GBPJPY 2024-10-08 18:53:54.910  194.11100  194.08600
+2      EURJPY 2024-10-08 18:54:01.310  162.59200  162.57600
+3      USDJPY 2024-10-08 18:54:09.469  148.21600  148.19700
+4      GBPUSD 2024-10-08 18:54:14.142    1.30969    1.30956
+5      EURGBP 2024-10-08 18:54:22.078    0.83772    0.83761
+6      EURCHF 2024-10-08 18:54:29.279    0.94112    0.94096
+7      GBPCHF 2024-10-08 18:54:34.943    1.12360    1.12345
+8      USDCAD 2024-10-08 18:54:43.326    1.36647    1.36632
+9      AUDUSD 2024-10-08 18:54:53.597    0.67382    0.67366
+10     AUDCAD 2024-10-08 18:55:03.582    0.92073    0.92056
+2024-10-08 *** 16:55:13 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0009866666666666912 with settings mingain as: 0.0006
+2024-10-08 *** 16:55:13 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0010 loss:0.0001 sl:0.9205  tp:0.9215
+2024-10-08 *** 16:55:46 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00027733333333301857 with settings mingain as: 0.0006
+2024-10-08 *** 16:55:55 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0009866666666666912 with settings mingain as: 0.0006
+2024-10-08 *** 16:55:55 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0010 loss:0.0001 sl:0.9205  tp:0.9215
+2024-10-08 *** 16:56:01 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00027733333333301857 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:08 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0007453333333331535 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:08 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0007 loss:0.0001 sl:0.9205  tp:0.9213
+2024-10-08 *** 16:56:19 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003733333333331146 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:27 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0007453333333331535 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:27 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0007 loss:0.0001 sl:0.9205  tp:0.9213
+2024-10-08 *** 16:56:33 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003733333333331146 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:41 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0007453333333331535 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:41 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0007 loss:0.0001 sl:0.9205  tp:0.9213
+2024-10-08 *** 16:56:48 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003733333333331146 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:54 AUDCAD --> Current spread: 0.0015 with settings spread: 0.0015 and current est. gain is: 0.0007453333333331535 with settings mingain as: 0.0006
+2024-10-08 *** 16:56:54 TradeWorker : TradeDecision():0 AUDCAD dir:1 gain:0.0007 loss:0.0001 sl:0.9205  tp:0.9213
+2024-10-08 *** 16:56:58 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:55:27.933    1.09713    1.09700
+1      GBPJPY 2024-10-08 18:55:45.339  194.15100  194.12500
+2      EURJPY 2024-10-08 18:55:54.358  162.61100  162.59500
+3      USDJPY 2024-10-08 18:56:02.006  148.23100  148.21000
+4      GBPUSD 2024-10-08 18:56:09.238    1.30985    1.30973
+5      EURGBP 2024-10-08 18:56:17.558    0.83763    0.83752
+6      EURCHF 2024-10-08 18:56:26.710    0.94109    0.94095
+7      GBPCHF 2024-10-08 18:56:31.349    1.12365    1.12349
+8      USDCAD 2024-10-08 18:56:40.182    1.36636    1.36618
+9      AUDUSD 2024-10-08 18:56:47.189    0.67407    0.67390
+10     AUDCAD 2024-10-08 18:56:54.773    0.92095    0.92076
+2024-10-08 *** 16:57:00 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003733333333331146 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:25 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.0009560000000001789 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:32 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003893333333331306 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:39 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.0009560000000001789 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:44 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003893333333331306 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:52 AUDCAD --> Current spread: 0.0016 with settings spread: 0.0015 and current est. gain is: 0.0009560000000001789 with settings mingain as: 0.0006
+2024-10-08 *** 16:57:59 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.0003893333333331306 with settings mingain as: 0.0006
+2024-10-08 *** 16:58:11 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:58:20 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:58:27 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:58:32 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:57:14.870    1.09715    1.09702
+1      GBPJPY 2024-10-08 18:57:24.565  194.12800  194.10400
+2      EURJPY 2024-10-08 18:57:32.437  162.60800  162.59100
+3      USDJPY 2024-10-08 18:57:39.637  148.23500  148.21600
+4      GBPUSD 2024-10-08 18:57:45.749    1.30958    1.30947
+5      EURGBP 2024-10-08 18:57:51.765    0.83786    0.83775
+6      EURCHF 2024-10-08 18:57:58.581    0.94096    0.94081
+7      GBPCHF 2024-10-08 18:58:01.077    1.12313    1.12297
+8      USDCAD 2024-10-08 18:58:00.629    1.36636    1.36619
+9      AUDUSD 2024-10-08 18:58:16.149    0.67386    0.67368
+10     AUDCAD 2024-10-08 18:58:23.541    0.92062    0.92044
+2024-10-08 *** 16:58:36 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:58:58 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:04 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00023266666666676983 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:10 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:20 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:27 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:33 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:39 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:47 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:53 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 16:59:59 EURUSD --> Current spread: 0.0011 with settings spread: 0.0015 and current est. gain is: 0.00012333333333325314 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:04 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 18:58:50.357    1.09705    1.09692
+1      GBPJPY 2024-10-08 18:58:57.204  194.06400  194.04300
+2      EURJPY 2024-10-08 18:59:04.597  162.61100  162.59400
+3      USDJPY 2024-10-08 18:59:11.029  148.22900  148.21000
+4      GBPUSD 2024-10-08 18:59:14.197    1.30929    1.30917
+5      EURGBP 2024-10-08 18:59:27.188    0.83794    0.83784
+6      EURCHF 2024-10-08 18:59:34.165    0.94099    0.94084
+7      GBPCHF 2024-10-08 18:59:39.828    1.12306    1.12289
+8      USDCAD 2024-10-08 18:59:47.861    1.36634    1.36618
+9      AUDUSD 2024-10-08 18:59:52.949    0.67382    0.67365
+10     AUDCAD 2024-10-08 19:00:00.661    0.92062    0.92043
+2024-10-08 *** 17:00:06 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:27 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:33 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:41 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:46 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:52 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:00:58 EURUSD --> Current spread: 0.0012000000000000001 with settings spread: 0.0015 and current est. gain is: 2.6666666665953187e-06 with settings mingain as: 0.0006
+2024-10-08 *** 17:01:29 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:00:21.397    1.09703    1.09690
+1      GBPJPY 2024-10-08 19:00:28.053  194.07500  194.05200
+2      EURJPY 2024-10-08 19:00:35.061  162.63500  162.61800
+3      USDJPY 2024-10-08 19:00:40.086  148.27400  148.25400
+4      GBPUSD 2024-10-08 19:00:46.581    1.30902    1.30888
+5      EURGBP 2024-10-08 19:00:52.724    0.83811    0.83800
+6      EURCHF 2024-10-08 19:00:58.548    0.94086    0.94071
+7      GBPCHF 2024-10-08 19:01:04.310    1.12267    1.12250
+8      USDCAD 2024-10-08 19:01:11.477    1.36639    1.36623
+9      AUDUSD 2024-10-08 19:01:15.764    0.67376    0.67358
+10     AUDCAD 2024-10-08 19:01:24.948    0.92054    0.92035
+2024-10-08 *** 17:03:09 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:01:46.166    1.09699    1.09686
+1      GBPJPY 2024-10-08 19:01:54.357  193.98500  193.95900
+2      EURJPY 2024-10-08 19:02:01.397  162.59900  162.58200
+3      USDJPY 2024-10-08 19:02:07.316  148.22000  148.20200
+4      GBPUSD 2024-10-08 19:02:14.356    1.30864    1.30849
+5      EURGBP 2024-10-08 19:02:22.004    0.83832    0.83822
+6      EURCHF 2024-10-08 19:02:29.780    0.94086    0.94071
+7      GBPCHF 2024-10-08 19:02:37.812    1.12249    1.12230
+8      USDCAD 2024-10-08 19:02:46.132    1.36628    1.36612
+9      AUDUSD 2024-10-08 19:02:49.876    0.67383    0.67366
+10     AUDCAD 2024-10-08 19:03:01.972    0.92054    0.92036
+2024-10-08 *** 17:04:36 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:03:26.164    1.09723    1.09710
+1      GBPJPY 2024-10-08 19:03:34.549  193.99200  193.97100
+2      EURJPY 2024-10-08 19:03:42.100  162.59300  162.57800
+3      USDJPY 2024-10-08 19:03:47.796  148.20000  148.18100
+4      GBPUSD 2024-10-08 19:03:54.900    1.30906    1.30894
+5      EURGBP 2024-10-08 19:04:00.467    0.83826    0.83814
+6      EURCHF 2024-10-08 19:04:06.132    0.94087    0.94072
+7      GBPCHF 2024-10-08 19:04:13.782    1.12245    1.12233
+8      USDCAD 2024-10-08 19:04:19.766    1.36643    1.36628
+9      AUDUSD 2024-10-08 19:04:26.261    0.67368    0.67351
+10     AUDCAD 2024-10-08 19:04:31.060    0.92048    0.92030
+2024-10-08 *** 17:06:16 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:04:54.004    1.09722    1.09709
+1      GBPJPY 2024-10-08 19:05:05.653  193.94600  193.92000
+2      EURJPY 2024-10-08 19:05:13.588  162.58300  162.56600
+3      USDJPY 2024-10-08 19:05:20.403  148.18500  148.16600
+4      GBPUSD 2024-10-08 19:05:27.315    1.30895    1.30882
+5      EURGBP 2024-10-08 19:05:33.587    0.83828    0.83816
+6      EURCHF 2024-10-08 19:05:39.219    0.94088    0.94072
+7      GBPCHF 2024-10-08 19:05:47.924    1.12247    1.12225
+8      USDCAD 2024-10-08 19:05:57.876    1.36641    1.36625
+9      AUDUSD 2024-10-08 19:06:03.412    0.67381    0.67364
+10     AUDCAD 2024-10-08 19:06:11.605    0.92054    0.92037
+2024-10-08 *** 17:07:41 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:06:33.715    1.09720    1.09706
+1      GBPJPY 2024-10-08 19:06:40.724  193.96200  193.93700
+2      EURJPY 2024-10-08 19:06:46.996  162.56400  162.54700
+3      USDJPY 2024-10-08 19:06:52.692  148.16200  148.14200
+4      GBPUSD 2024-10-08 19:06:59.059    1.30923    1.30912
+5      EURGBP 2024-10-08 19:07:03.763    0.83811    0.83801
+6      EURCHF 2024-10-08 19:07:05.491    0.94084    0.94068
+7      GBPCHF 2024-10-08 19:07:17.587    1.12267    1.12251
+8      USDCAD 2024-10-08 19:07:21.811    1.36643    1.36627
+9      AUDUSD 2024-10-08 19:07:27.667    0.67370    0.67354
+10     AUDCAD 2024-10-08 19:07:37.555    0.92045    0.92027
+2024-10-08 *** 17:09:09 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:07:58.452    1.09729    1.09715
+1      GBPJPY 2024-10-08 19:08:05.524  193.98300  193.95600
+2      EURJPY 2024-10-08 19:08:12.147  162.57500  162.55900
+3      USDJPY 2024-10-08 19:08:15.060  148.17300  148.15400
+4      GBPUSD 2024-10-08 19:08:24.340    1.30929    1.30917
+5      EURGBP 2024-10-08 19:08:30.356    0.83809    0.83798
+6      EURCHF 2024-10-08 19:08:34.164    0.94085    0.94069
+7      GBPCHF 2024-10-08 19:08:44.499    1.12267    1.12247
+8      USDCAD 2024-10-08 19:08:51.219    1.36638    1.36621
+9      AUDUSD 2024-10-08 19:08:57.075    0.67377    0.67360
+10     AUDCAD 2024-10-08 19:09:05.428    0.92057    0.92038
+2024-10-08 *** 17:10:46 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:09:27.135    1.09725    1.09712
+1      GBPJPY 2024-10-08 19:09:32.671  193.95700  193.93000
+2      EURJPY 2024-10-08 19:09:40.062  162.54200  162.52300
+3      USDJPY 2024-10-08 19:09:46.590  148.15700  148.13800
+4      GBPUSD 2024-10-08 19:09:54.431    1.30924    1.30910
+5      EURGBP 2024-10-08 19:10:04.063    0.83809    0.83797
+6      EURCHF 2024-10-08 19:10:10.847    0.94076    0.94060
+7      GBPCHF 2024-10-08 19:10:19.327    1.12257    1.12238
+8      USDCAD 2024-10-08 19:10:27.198    1.36634    1.36619
+9      AUDUSD 2024-10-08 19:10:33.887    0.67386    0.67369
+10     AUDCAD 2024-10-08 19:10:41.343    0.92068    0.92048
+2024-10-08 *** 17:12:18 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:11:04.318    1.09726    1.09714
+1      GBPJPY 2024-10-08 19:11:10.751  193.97400  193.94700
+2      EURJPY 2024-10-08 19:11:17.375  162.55500  162.53800
+3      USDJPY 2024-10-08 19:11:21.566  148.15500  148.13600
+4      GBPUSD 2024-10-08 19:11:28.127    1.30929    1.30916
+5      EURGBP 2024-10-08 19:11:38.750    0.83809    0.83800
+6      EURCHF 2024-10-08 19:11:45.981    0.94066    0.94052
+7      GBPCHF 2024-10-08 19:11:50.526    1.12245    1.12230
+8      USDCAD 2024-10-08 19:11:59.135    1.36631    1.36616
+9      AUDUSD 2024-10-08 19:12:06.367    0.67391    0.67373
+10     AUDCAD 2024-10-08 19:12:12.670    0.92063    0.92044
+2024-10-08 *** 17:13:50 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:12:35.774    1.09722    1.09710
+1      GBPJPY 2024-10-08 19:12:43.230  193.99500  193.96800
+2      EURJPY 2024-10-08 19:12:48.446  162.54400  162.52500
+3      USDJPY 2024-10-08 19:12:50.269  148.14500  148.12600
+4      GBPUSD 2024-10-08 19:13:03.069    1.30935    1.30923
+5      EURGBP 2024-10-08 19:13:09.951    0.83806    0.83794
+6      EURCHF 2024-10-08 19:13:16.445    0.94066    0.94051
+7      GBPCHF 2024-10-08 19:13:24.958    1.12251    1.12231
+8      USDCAD 2024-10-08 19:13:28.798    1.36629    1.36613
+9      AUDUSD 2024-10-08 19:13:39.261    0.67382    0.67365
+10     AUDCAD 2024-10-08 19:13:45.885    0.92055    0.92038
+2024-10-08 *** 17:15:30 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:14:04.893    1.09727    1.09715
+1      GBPJPY 2024-10-08 19:14:15.997  193.99200  193.96500
+2      EURJPY 2024-10-08 19:14:22.237  162.55400  162.53500
+3      USDJPY 2024-10-08 19:14:33.790  148.15600  148.13700
+4      GBPUSD 2024-10-08 19:14:41.119    1.30946    1.30936
+5      EURGBP 2024-10-08 19:14:50.174    0.83804    0.83793
+6      EURCHF 2024-10-08 19:14:56.797    0.94063    0.94046
+7      GBPCHF 2024-10-08 19:15:02.622    1.12243    1.12225
+8      USDCAD 2024-10-08 19:15:12.445    1.36627    1.36612
+9      AUDUSD 2024-10-08 19:15:17.326    0.67388    0.67371
+10     AUDCAD 2024-10-08 19:15:25.537    0.92062    0.92042
+2024-10-08 *** 17:16:58 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:15:48.037    1.09724    1.09713
+1      GBPJPY 2024-10-08 19:15:53.638  193.93600  193.90900
+2      EURJPY 2024-10-08 19:16:00.806  162.53000  162.51400
+3      USDJPY 2024-10-08 19:16:07.622  148.11600  148.09700
+4      GBPUSD 2024-10-08 19:16:14.726    1.30929    1.30916
+5      EURGBP 2024-10-08 19:16:21.318    0.83813    0.83802
+6      EURCHF 2024-10-08 19:16:28.165    0.94059    0.94043
+7      GBPCHF 2024-10-08 19:16:33.958    1.12233    1.12218
+8      USDCAD 2024-10-08 19:16:39.912    1.36618    1.36602
+9      AUDUSD 2024-10-08 19:16:45.925    0.67410    0.67393
+10     AUDCAD 2024-10-08 19:16:52.966    0.92084    0.92066
+2024-10-08 *** 17:18:25 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:17:16.420    1.09745    1.09732
+1      GBPJPY 2024-10-08 19:17:16.070  193.95300  193.92500
+2      EURJPY 2024-10-08 19:17:31.813  162.54900  162.52900
+3      USDJPY 2024-10-08 19:17:37.126  148.10800  148.09000
+4      GBPUSD 2024-10-08 19:17:43.365    1.30966    1.30951
+5      EURGBP 2024-10-08 19:17:49.157    0.83812    0.83797
+6      EURCHF 2024-10-08 19:17:55.173    0.94058    0.94042
+7      GBPCHF 2024-10-08 19:18:01.381    1.12239    1.12221
+8      USDCAD 2024-10-08 19:18:08.165    1.36603    1.36587
+9      AUDUSD 2024-10-08 19:18:10.150    0.67425    0.67409
+10     AUDCAD 2024-10-08 19:18:21.222    0.92089    0.92069
+2024-10-08 *** 17:19:52 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:18:42.949    1.09761    1.09749
+1      GBPJPY 2024-10-08 19:18:45.989  193.91500  193.88600
+2      EURJPY 2024-10-08 19:18:55.620  162.51800  162.50000
+3      USDJPY 2024-10-08 19:19:01.253  148.08000  148.06100
+4      GBPUSD 2024-10-08 19:19:06.726    1.30958    1.30941
+5      EURGBP 2024-10-08 19:19:13.317    0.83816    0.83805
+6      EURCHF 2024-10-08 19:19:20.838    0.94073    0.94057
+7      GBPCHF 2024-10-08 19:19:27.205    1.12244    1.12224
+8      USDCAD 2024-10-08 19:19:33.477    1.36609    1.36592
+9      AUDUSD 2024-10-08 19:19:40.804    0.67416    0.67400
+10     AUDCAD 2024-10-08 19:19:48.485    0.92086    0.92066
+2024-10-08 *** 17:21:23 
+   instrument                    time        ask        bid
+0      EURUSD 2024-10-08 19:20:09.829    1.09756    1.09743
+1      GBPJPY 2024-10-08 19:20:17.157  193.88900  193.86100
+2      EURJPY 2024-10-08 19:20:23.109  162.49500  162.47900
+3      USDJPY 2024-10-08 19:20:30.788  148.06000  148.03900
+4      GBPUSD 2024-10-08 19:20:32.772    1.30968    1.30954
+5      EURGBP 2024-10-08 19:20:45.412    0.83818    0.83807
+6      EURCHF 2024-10-08 19:20:53.604    0.94078    0.94063
+7      GBPCHF 2024-10-08 19:21:01.093    1.12248    1.12231
+8      USDCAD 2024-10-08 19:21:06.629    1.36595    1.36580
+9      AUDUSD 2024-10-08 19:21:11.460    0.67426    0.67407
+10     AUDCAD 2024-10-08 19:21:19.013    0.92091    0.92074
